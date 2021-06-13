@@ -7,8 +7,8 @@
 <h5 align="center">2021-01 ~</h5>
 </div>
 <div>
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=kapop1324" height="165">
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rso1129"><br><br>
+<img  src="https://github-readme-stats.vercel.app/api?username=kapop1324" height="165">
+<img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rso1129"><br><br>
 </div>
 <div>
 <h1 align="center"><b>🔨 Tech Stack 🔨</b></h3>
