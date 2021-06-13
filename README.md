@@ -6,11 +6,13 @@
 <h3 align="center">Samsung Sw Aacademy For Youth</h3>
 <h5 align="center">2021-01 ~</h5>
 </div>
-<div>
+<br><br
+<div align="center">
 <img  src="https://github-readme-stats.vercel.app/api?username=kapop1324" height="165">
 <img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rso1129"><br><br>
 </div>
-<div>
+<br><br
+<div align="center">
 <h1 align="center"><b>🔨 Tech Stack 🔨</b></h3>
 </br>
 <p align="center">
@@ -26,10 +28,10 @@
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a> &nbsp
 </p>
 </div>
-<div>
+<br><br
+<div align="center">
 <h1 align="center"><b>⏳ Summary ⏳</b></h1>
 <h3  align="center"><a href="https://kapop1324.github.io/summary/">https://kapop1324.github.io/summary/</a></h3>
 </div>
-
-
+<br><br><br>
 
