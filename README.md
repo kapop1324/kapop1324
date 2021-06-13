@@ -8,8 +8,8 @@
 </div>
 <br><br>
 
-<img  float="left"src="https://github-readme-stats.vercel.app/api?username=kapop1324" height="165">
-<img  float="right"src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rso1129">
+<img  src="https://github-readme-stats.vercel.app/api?username=kapop1324" height="165" hspace="20">
+<img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rso1129" hspace="20">
 
 <br><br>
 <div float="clear"align="center">
