@@ -21,13 +21,13 @@
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a> &nbsp
 </p>
-<br>
+<div>
+<h1 align="center"><b>⏳ Summary ⏳</b></h1>
+<h3  align="center"><a href="https://kapop1324.github.io/summary/">https://kapop1324.github.io/summary/</a></h3>
+</div>
 <div>
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=kapop1324" height="165">
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rso1129"><br><br>
 </div>
-<div>
-<h1 align="center"><b>⏳ Summary ⏳</b></h1>
-<h3  align="center"><a href="https://kapop1324.github.io/summary/">https://kapop1324.github.io/summary/</a></h3>
-  </div>
+
 
