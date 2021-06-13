@@ -1,14 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=RYU-SANG-OH&fontSize=90)
-<h1 align="center"><b>📗 Education 📗</b></h1>
+<h3 align="center"><b>📗 Education 📗</b></h3>
 <p align="center">
-<h3 align="center">Chosun University</h3>
+<h4 align="center">Chosun University</h3>
 <h5 align="center">2015-03 ~ 2021-02</h5>
-<h3 align="center">Samsung Sw Aacademy For Youth</h3>
+<h4 align="center">Samsung Sw Aacademy For Youth</h3>
 <h5 align="center">2021-01 ~</h5>
 </p>
 <br>
 <p align="center">
-<h1 align="center"><b>🔨 Tech Stack 🔨</b></h3>
+<img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rso1129">&nbsp<img  src="https://github-readme-stats.vercel.app/api?username=kapop1324" height="165">
+</p>
+<br>
+<p align="center">
+<h3 align="center"><b>🔨 Tech Stack 🔨</b></h3>
 </p>
 </br>
 <p align="center">
@@ -25,12 +29,8 @@
 </p>
 <br><br>
 <p align="center">
-<img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rso1129">&nbsp<img  src="https://github-readme-stats.vercel.app/api?username=kapop1324" height="165">
-</p>
-<br><br>
-<p align="center">
-<h1 align="center"><b>⏳ Summary ⏳</b></h1>
-<h3  align="center"><a href="https://kapop1324.github.io/summary/">https://kapop1324.github.io/summary/</a></h3>
+<h3 align="center"><b>⏳ Summary ⏳</b></h3>
+<h5  align="center"><a href="https://kapop1324.github.io/summary/">https://kapop1324.github.io/summary/</a></h5>
 </p>
 <br><br><br>
 
