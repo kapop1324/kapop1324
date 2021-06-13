@@ -8,7 +8,7 @@
 </p>
 <br><br>
 <p align="center">
-<img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rso1129">&nbsp&nbsp&nbsp<img  src="https://github-readme-stats.vercel.app/api?username=kapop1324" height="165">
+<img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rso1129">&nbsp<img  src="https://github-readme-stats.vercel.app/api?username=kapop1324" height="165">
 </p>
 <br><br>
 <p align="center">
