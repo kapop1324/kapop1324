@@ -24,11 +24,12 @@
 <br><br><br>
 <p align="center">
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=kapop1324" height="165">
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rso1129">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rso1129"><br><br>
+  <h1 align="center"><b>⏳ Summary ⏳</b></h1>
+<h3  align="center"><a href="https://kapop1324.github.io/summary/">https://kapop1324.github.io/summary/</a></h3>
 </p>
 <br><br><br>
 <p align="center">
-<h1 align="center"><b>⏳ Summary ⏳</b></h1>
-<h3  align="center"><a href="https://kapop1324.github.io/summary/">https://kapop1324.github.io/summary/</a></h3>
+
 </p>
 <br><br><br>
