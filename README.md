@@ -6,10 +6,7 @@
 <h3 align="center">Samsung Sw Aacademy For Youth</h3>
 <h5 align="center">2021-01 ~</h5>
 </p>
-<br><br>
-<p align="center">
-<img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rso1129">&nbsp<img  src="https://github-readme-stats.vercel.app/api?username=kapop1324" height="165">
-</p>
+
 <br><br>
 <p align="center">
 <h1 align="center"><b>🔨 Tech Stack 🔨</b></h3>
@@ -26,6 +23,10 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a> &nbsp
+</p>
+<br><br>
+<p align="center">
+<img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rso1129">&nbsp<img  src="https://github-readme-stats.vercel.app/api?username=kapop1324" height="165">
 </p>
 <br><br>
 <p align="center">
