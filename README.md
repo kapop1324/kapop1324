@@ -9,7 +9,7 @@
 <br><br
 <div>
 <img  src="https://github-readme-stats.vercel.app/api?username=kapop1324" height="165">
-<img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rso1129"><br><br>
+<img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rso1129">
 </div>
 <br><br>
 <div align="center">
