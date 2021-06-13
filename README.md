@@ -4,8 +4,7 @@
 <p align="center">
 <h4>Chosun University</h4>
 2015-03 ~ 2021-02
-<h4>Samsung Sw Aacademy</h4>
-For Youth</h4>
+<h4>Samsung Sw AacademyFor Youth</h4>
 2021-01 ~
 </p>
 
