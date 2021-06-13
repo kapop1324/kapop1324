@@ -6,8 +6,7 @@
 <h3 align="center">Samsung Sw Aacademy For Youth</h3>
 <h5 align="center">2021-01 ~</h5>
 </p>
-
-<br><br>
+<br>
 <p align="center">
 <h1 align="center"><b>🔨 Tech Stack 🔨</b></h3>
 </p>
