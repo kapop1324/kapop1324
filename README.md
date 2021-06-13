@@ -1,13 +1,13 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=RYU-SANG-OH&fontSize=90)
-<h3 align="center"><b>📗 Education 📗</b></h3>
+<h1 align="center"><b>📗 Education 📗</b></h3>
 <p text-align="center">
-<h4 align="center">Chosun University</h4>
+<h3 align="center">Chosun University</h4>
 <h5 align="center">2015-03 ~ 2021-02</h5>
-<h4 align="center">Samsung Sw AacademyFor Youth</h4>
+<h3 align="center">Samsung Sw AacademyFor Youth</h4>
 <h5 align="center">2021-01 ~</h5>
 </p>
 
-<h3 align="center"><b>🔨 Tech Stack 🔨</b></h3>
+<h1 align="center"><b>🔨 Tech Stack 🔨</b></h3>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/JAVA-007396?style=flat-square&logo=Java&logoColor=white"/></a> &nbsp
