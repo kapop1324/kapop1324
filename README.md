@@ -2,11 +2,11 @@
 <h3 align="center"><b>📗 Education 📗</b></h3>
 </br>
 <p align="center">
-<h4>Chosun University</h4><br>
-2015-03 ~ 2021-02<br><br><br><br>
-<h4>Samsung Sw Aacademy<br><br><br>
-For Youth</h4><br><br>
-2021-01 ~<br>
+<h4>Chosun University</h4>
+2015-03 ~ 2021-02
+<h4>Samsung Sw Aacademy</h4>
+For Youth</h4>
+2021-01 ~
 </p>
 
 <h3 align="center"><b>🔨 Tech Stack 🔨</b></h3>
