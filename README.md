@@ -25,7 +25,7 @@
 <p align="center">
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=kapop1324" height="165">
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rso1129">
- </p>
+</p>
 <br><br><br>
 <p align="center">
 <h1 align="center"><b>⏳ Summary ⏳</b></h1>
