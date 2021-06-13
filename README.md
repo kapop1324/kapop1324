@@ -22,5 +22,7 @@
 <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/></a> &nbsp
 </p>
 <br>
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=kapop1324" height="165">
+<br>
+<br>
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=kapop1324" height="165">
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rso1129">
