@@ -8,11 +8,11 @@
 </div>
 <br><br>
 
-<img  src="https://github-readme-stats.vercel.app/api?username=kapop1324" height="165">
-<img  src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rso1129">
+<img  float="left"src="https://github-readme-stats.vercel.app/api?username=kapop1324" height="165">
+<img  float="right"src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rso1129">
 
 <br><br>
-<div align="center">
+<div float="clear"align="center">
 <h1 align="center"><b>🔨 Tech Stack 🔨</b></h3>
 </br>
 <p align="center">
